@@ -24,5 +24,5 @@ The model achieves an accuracy of 97.50% on the evaluation set, showcasing its e
 
 ## Contact
 
-For any questions or issues, please feel free to contact...
+For any questions or issues, please feel free to contact us...
 
